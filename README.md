@@ -55,24 +55,22 @@
 
 ---
 
-## 🏆 Mis Trofeos de GitHub
-<div align="center">
-  <!-- Cambiado a un servidor espejo más estable -->
-  <img src="https://github-profile-trophy.vercel.app/?username=JFKoryy&theme=tokyonight&column=4" alt="Trofeos de GitHub" />
-</div>
+## 📊 Estadísticas e Impacto
 
----
-
-## 📊 Estadísticas
 <div align="center">
-  <!-- Usamos una estructura de párrafos simple en lugar de tablas para evitar problemas de renderizado de GitHub -->
+  <!-- Racha de commits diarios (Estable) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JFKoryy&theme=tokyonight" alt="Racha de GitHub" />
+  
+  <br><br>
+
+  <!-- Métricas rápidas en formato Badge (Inmunes a caídas de servidores) -->
   <p align="center">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JFKoryy&show_icons=true&theme=tokyonight&rank_icon=github" alt="Estadísticas de GitHub" />
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JFKoryy&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+    <img src="https://img.shields.io/github/followers/JFKoryy?label=Seguidores&style=for-the-badge&color=7aa2f7&logo=github" alt="Seguidores" />
+    <img src="https://img.shields.io/github/stars/JFKoryy?label=Estrellas%20Totales&style=for-the-badge&color=bb9af7&logo=github" alt="Estrellas" />
   </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JFKoryy&theme=tokyonight" alt="Racha de GitHub" />
-  </p>
+
+  <!-- Gráfico de actividad mensual (Estable y moderno) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JFKoryy&theme=tokyo-night&area=true" width="100%" alt="Gráfico de Actividad" />
 </div>
 
 <div align="center">
