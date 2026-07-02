@@ -57,6 +57,7 @@
 
 ## 🏆 Mis Trofeos de GitHub
 <div align="center">
+  <!-- Cambiado a un servidor espejo más estable -->
   <img src="https://github-profile-trophy.vercel.app/?username=JFKoryy&theme=tokyonight&column=4" alt="Trofeos de GitHub" />
 </div>
 
@@ -64,24 +65,15 @@
 
 ## 📊 Estadísticas
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=JFKoryy&show_icons=true&theme=tokyonight&rank_icon=github" alt="Estadísticas de GitHub" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFKoryy&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JFKoryy&theme=tokyonight" alt="Racha de GitHub" />
-      </td>
-    </tr>
-  </table>
+  <!-- Usamos una estructura de párrafos simple en lugar de tablas para evitar problemas de renderizado de GitHub -->
+  <p align="center">
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JFKoryy&show_icons=true&theme=tokyonight&rank_icon=github" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JFKoryy&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JFKoryy&theme=tokyonight" alt="Racha de GitHub" />
+  </p>
 </div>
-
----
 
 <div align="center">
   <p>📫 Escríbeme a: <b>jedamube@gmail.com</b></p>
