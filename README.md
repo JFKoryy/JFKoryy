@@ -8,14 +8,16 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/jesus-m%C3%BAnera-3702962aa/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+      <p align="center">
+  <a href="https://www.linkedin.com/in/jesus-m%C3%BAnera-3702962aa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-    <a href="https://portafolio-jesus-munera.netlify.app/#stack" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://portafolio-jesus-munera.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
     </a>
-  </p>
-</div>
----
 
 ## 📖 Sobre Mí
 
