@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner animado con Capsule Render -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Jesús Múnera&fontSize=70&animation=fadeIn&fontColor=1a1b26" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=JFKoryy&fontSize=70&animation=fadeIn&fontColor=1a1b26" alt="Header Banner" />
 
   <!-- Subtítulo Dinámico (Efecto Typing) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=bb9af7&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+|+Express.js+|+SpringBoot;SQL+|+NoSQL+|+Cloud+|+AWS" alt="Typing SVG" />
