@@ -4,20 +4,20 @@
 
   <!-- Subtítulo Dinámico (Efecto Typing) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=bb9af7&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+|+Express.js+|+SpringBoot;SQL+|+NoSQL+|+Cloud+|+AWS" alt="Typing SVG" />
-
   <p align="center">
-    <a href="https://www.linkedin.com/in/jesus-m%C3%BAnera-3702962aa/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      <p align="center">
   <a href="https://www.linkedin.com/in/jesus-m%C3%BAnera-3702962aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://portafolio-jesus-munera.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portafolio-7aa2f7?style=for-the-badge" alt="Portafolio" />
+  </a>
+
+  <a href="https://github.com/JFKoryy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-    </a>
+ 
 
 ## 📖 Sobre Mí
 
